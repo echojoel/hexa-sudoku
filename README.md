@@ -6,8 +6,6 @@ An hexadecimal sudoku solver that can solve very hard 16 x 16 Hexa Sudoku puzzle
 <img src="https://raw.githubusercontent.com/echojoel/hexa-sudoku/main/public/img/hexa-sodoku.png" width="350"/>
 </p>
 
-
-
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/en/) (tested with version 14)

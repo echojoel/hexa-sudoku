@@ -1,16 +1,14 @@
 # Hexa Sudoku Solver
-
-## Description
-An hexadecimal sudoku solver. <br>
-It should be able to solve very hard 16 x 16 Hexa Sudoku puzzles. <br>
-Enjoy!
-
+<br>
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/echojoel/hexa-sudoku/main/public/img/hexa-sodoku.png" width="350"/>
 </p>
 
 
+## Description
+An hexadecimal sudoku solver. <br>
+It should be able to solve very hard 16 x 16 Hexa Sudoku puzzles. Enjoy!
 
 ## Prerequisites
 

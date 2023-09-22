@@ -1,6 +1,7 @@
 # Hexa Sudoku Solver
-<p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/echojoel/hexa-sudoku/main/public/img/hexa-sodoku.png" width="450"/>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/echojoel/hexa-sudoku/main/public/img/hexa-sodoku.png" width="350"/>
 </p>
 
 ## Description

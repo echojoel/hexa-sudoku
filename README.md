@@ -18,7 +18,7 @@ Follow these steps to get the Sudoku Solver running on your local machine.
 
 
 ```shell
-git clone
+git clone https://github.com/echojoel/hexa-sudoku
 yarn
 yarn start
 ```

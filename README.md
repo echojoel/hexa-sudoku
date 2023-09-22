@@ -17,11 +17,9 @@ Follow these steps to get the Sudoku Solver running on your local machine.
 - [Yarn](https://yarnpkg.com/)
 - Python3 on $PATH
 
-### Clone the Repository
-
 ```shell
 git clone
 yarn
 yarn start
+```
 
-http://localhost:8081/

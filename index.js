@@ -70,7 +70,7 @@ app.use('/js', express.static(path.join(__dirname, 'node_modules/bootstrap/dist/
 });
 
 function launchSolver(sudoku){
-    result = exec(`python3 HexaSudokuSolver/HexaSolver.py ${sudoku}`).stdout
+    result = exec(`python3 solver/hexa_solver.py ${sudoku}`).stdout
 
     sol = result.split('\n') // get 2 lines : the result and execution time
 
